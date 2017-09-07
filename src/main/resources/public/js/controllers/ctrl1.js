@@ -10,7 +10,7 @@ var appController1 = function($scope, $log, $http) {
 
         $scope.equipos = [];
         $http({
-                url: 'http://192.168.130.101:4567/equipos',
+                url: '/equipos',
                 method: 'get'
             })
             .then(function(res) {
