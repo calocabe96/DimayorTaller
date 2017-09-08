@@ -5,6 +5,9 @@ import static spark.Spark.*;
 
 public class DimayorController {
 
+	/**
+	 * @param primera
+	 */
 	public DimayorController(final PrimeraDivision primera) {
 
 		// Devuelve la lista de equipos
