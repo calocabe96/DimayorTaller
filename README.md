@@ -26,7 +26,7 @@ A través de este proyecto se desarrollo el taller de tecnologías y protocolos 
 
 ```json
 {
-    "name": America,
+    "name": "America",
     "ano": "1927",
     "titu": "13"
 }
